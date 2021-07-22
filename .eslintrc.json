@@ -88,7 +88,7 @@
         "import/no-unassigned-import": "off",
         "linebreak-style": [
             "error",
-            "windows"
+            "unix"
         ],
         "max-classes-per-file": "off",
         "max-len": "off",
